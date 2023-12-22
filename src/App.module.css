@@ -1,0 +1,18 @@
+body{
+  margin: 0px;
+}
+.message{
+  font-size: 20px;
+  margin-left: 200px;
+  }
+  .annotation{
+    font-size:20px;
+   
+    width:fit-content;
+    background-color: aquamarine;
+    align-items: center;
+    padding: 5px 5px 5px 5px;
+    margin: 5px;
+    margin-left: 40px;
+    
+  }
