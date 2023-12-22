@@ -1,7 +1,3 @@
-import React from "react";
-import styles from './App.module.css'
-
-
 type PersonType = {
   firstName: string,
   lastName: string,
